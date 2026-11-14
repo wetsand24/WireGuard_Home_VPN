@@ -1,0 +1,1 @@
+sed "s|<absolute_path_of_wgdashboard_src>|$PWD|g" wg-dashboard.service > /etc/systemd/system/wg-dashboard.service
