@@ -16,7 +16,7 @@ Every command and file from the video, in order. The addresses below are the one
 
 Replace them with yours.
 
-▶️ Video: https://youtu.be/-wAf1Ey1Ffs
+▶️ Video: https://youtu.be/1uTLrhAv2cs
 
 ## What you need
 - A **Debian 13** machine on your home network. A Proxmox container works: in the video it's an unprivileged
