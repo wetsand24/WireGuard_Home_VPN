@@ -22,6 +22,7 @@ Replace them with yours.
 - A **Debian 13** machine on your home network. A Proxmox container works: in the video it's an unprivileged
   container, and WireGuard uses the Proxmox host's kernel module.
   Debian 12 or Ubuntu 24.04? They need extra steps first, see [Debian 12 and Ubuntu 24.04](#debian-12-and-ubuntu-2404-extra-steps).
+- 2 CPU cores, 512 MB RAM and 6 GB disk. WGDashboard needs Python 3.12 or newer (Debian 13 has it).
 - Access to your router's port forwarding page.
 - A public IP that isn't behind CGNAT (step 1 checks this).
 - The free WireGuard app on your phone.
